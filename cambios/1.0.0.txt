@@ -1,0 +1,1 @@
+Versión inicial del sistema de actualizaciones de Valorizaciones AD.
