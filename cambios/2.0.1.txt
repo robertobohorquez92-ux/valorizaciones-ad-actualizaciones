@@ -1,1 +1,1 @@
-Version Actualizada Val. AD
+Se mejoró la impresion de la hoja Generalidades
